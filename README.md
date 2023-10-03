@@ -4,7 +4,7 @@ Small todos project using React with TypeScript and Drag and Drop on todo comple
 
 Inline edit or update feature.
 
-![Alt text](Screenshot.jpg)
+![Alt text](https://github.com/ashish135/Todos-Application/blob/master/Screenshot.jpg)
 
 ## Getting Started with Create React App
 
