@@ -1,6 +1,10 @@
 # Todos-Application
 
-Small todos project using React with TypeScript
+Small todos project using React with TypeScript and Drag and Drop on todo complete and incomplete.
+
+Inline edit or update feature.
+
+![Alt text](Screenshot.jpg)
 
 ## Getting Started with Create React App
 
